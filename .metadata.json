@@ -1,10 +1,10 @@
 [
   {
-    "package": "aquodom",
+    "package": "twn",
     "oncran": true
   },
   {
-    "package": "twn",
+    "package": "aquodom",
     "oncran": true
   }
 ]
